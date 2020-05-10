@@ -14,6 +14,7 @@ def funkcja_1():
 
 
 
+
 def funkcja_z_argumentem(argument):
     print(argument)
 
