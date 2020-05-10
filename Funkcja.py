@@ -8,15 +8,23 @@ def funkcja():
     print("5")
 
 
-def funkcja_1():
-    zmienna = 123
+
+# ta funkcja zwraca string "jakis tekst"
+def funkcja_1(cos):
     return "jakis tekst"
 
 
 
-
+# ta funkcja wypisuje do konsoli argument podany
 def funkcja_z_argumentem(argument):
     print(argument)
 
+
+
+# ta funcja ZWRACA sume dwóch argumentów (int)
 def dodaj(jedna_liczba, druga_liczba):
     return jedna_liczba + druga_liczba
+
+
+
+funckja_1("jakis napis")
