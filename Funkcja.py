@@ -8,10 +8,9 @@ def funkcja():
     print("5")
 
 
-
 # ta funkcja zwraca string "jakis tekst"
 def funkcja_1(cos):
-    return "jakis tekst"
+    return "jakis tekst" + cos
 
 
 

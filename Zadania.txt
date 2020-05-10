@@ -1,6 +1,6 @@
 1. Napisz funkcje, które przyjmują dwa argumenty typu string i:
 a) ZWRACA pierwszy tekst i drugi rozdzielony znakiem +
-b) WYPISUJE DO konsoli pierwszy tekst i drugi rozdzielony znakiem  *
+b) WYPISUJE DO konsoli pierwszy tekst i drugi rozdzielony znakiem *
 
 
 2. Napisz funkcję, do której podamjemy cztery liczby i funkcja ZWRACA średnią z tych liczb.
