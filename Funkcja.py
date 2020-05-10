@@ -1,11 +1,11 @@
 def funkcja():
     # tu jest funkcja ktora cos robi, np:
     print("dzingiel")
-    print("*")
-    print("*")
-    print("*")
-    print("*")
-    print("*")
+    print("1")
+    print("2")
+    print("3")
+    print("4")
+    print("5")
 
 
 def funkcja_1():
