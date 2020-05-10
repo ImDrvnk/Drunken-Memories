@@ -1,0 +1,18 @@
+1. Napisz funkcje, które przyjmują dwa argumenty typu string i:
+a) ZWRACA pierwszy tekst i drugi rozdzielony znakiem +
+b) WYPISUJE DO konsoli pierwszy tekst i drugi rozdzielony znakiem  *
+
+
+2. Napisz funkcję, do której podamjemy cztery liczby i funkcja ZWRACA średnią z tych liczb.
+
+3. Napisz funkcje, która wypisuje do konsoli jakiś obrazek narysowany z gwiazdek, czyli znaku "*"
+
+
+
+ZWRACA - return ....
+WYPISUJE DO KONSOLI - print(.....)
+
+
+przykładowo miejmy funkcje która zwraca coś, i niech ta funkcja nazywa się funkcja() to mozemy zrobić:
+
+print(funckja())
